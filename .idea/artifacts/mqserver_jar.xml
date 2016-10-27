@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact name="mqserver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mqserver_jar</output-path>
+    <root id="root">
+      <element id="archive" name="mqserver.jar">
+        <element id="module-output" name="mqserver" />
+      </element>
+      <element id="library" level="project" name="Gradle: commons-lang:commons-lang:2.6" />
+      <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.1.1" />
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="Gradle: commons-configuration:commons-configuration:1.10" />
+        <element id="library" level="project" name="Gradle: com.rabbitmq:amqp-client:3.6.0" />
+        <element id="library" level="project" name="Gradle: commons-lang:commons-lang:2.6" />
+        <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.1.1" />
+      </element>
+      <element id="library" level="project" name="Gradle: commons-configuration:commons-configuration:1.10" />
+      <element id="library" level="project" name="Gradle: com.rabbitmq:amqp-client:3.6.0" />
+    </root>
+  </artifact>
+</component>

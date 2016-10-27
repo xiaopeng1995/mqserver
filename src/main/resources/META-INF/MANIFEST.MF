@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: commons-configuration-1.10.jar amqp-client-3.6.0.jar commo
+ ns-lang-2.6.jar commons-logging-1.1.1.jar
+Main-Class: test.mq.Application
+
